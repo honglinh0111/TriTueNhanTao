@@ -1,0 +1,14 @@
+THAP HA NOI
+https://www.cpp.edu/~jrfisher/www/prolog_tutorial/2_3.html
+
+Tro choi 8 o so
+https://tristanpenman.com/demos/n-puzzle/
+
+Bài toán tim duong ði trong mê cung voi giai thuat A*
+http://bgrins.github.io/javascript-astar/demo/
+
+Bài toán tim duong ði trong mê cung voi nhieu giai thuat khác nhau
+https://qiao.github.io/PathFinding.js/visual/
+
+clip minh hoa giai thuat minimax
+https://www.youtube.com/watch?v=zDskcx8FStA
